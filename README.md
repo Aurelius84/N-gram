@@ -1,6 +1,6 @@
 # N-gram
 A project of N-gram model comparing FMM/BMM
-Document is [here](http://fromwiz.com/share/s/229tNZ0vF4ql2YIr3G36BZnV0BIsSy26W4VN2Ih4fd3w_Rj0)
+Document:[http://fromwiz.com/share/s/229tNZ0vF4ql2YIr3G36BZnV0BIsSy26W4VN2Ih4fd3w_Rj0](http://fromwiz.com/share/s/229tNZ0vF4ql2YIr3G36BZnV0BIsSy26W4VN2Ih4fd3w_Rj0)
 
 ### Usage
 Firstly, you should download the data '199801.txt' from Internet and put it in the project dir.
