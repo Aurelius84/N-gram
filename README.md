@@ -1,6 +1,6 @@
 # N-gram
 A project of N-gram model comparing FMM/BMM
-Document:[CocoNLP](http://coconlp.top/2016/11/18/Ngram%E5%88%86%E8%AF%8D/)
+Document:[CocoNLP](https://www.cnblogs.com/CocoML/p/12725988.html)
 
 ### Usage
 Firstly, you should download the data '199801.txt' from Internet and put it in the project dir.
@@ -20,7 +20,11 @@ the total number of punction is:47
 F值为:0.950957517059212
 ```
 
-### Todo
-+ Ambiguity
-+ OVV
-+ Trigram
+### Result
+
+
+|指标   |  FMM |  BMM | Unigram  | Bigram|
+|:------:|:------:|:------:|:------------:|:--:|
+|准确率 |91.54%|92.13%|   93.20%   |  94.01% |
+|召回率 |94.66%|95.07%|   96.14%   |  96.20% |
+|F1值  |93.07%|93.58%|   94.64%   |  95.10%|
